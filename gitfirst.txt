@@ -1,2 +1,4 @@
 hello first
 hello second
+this is how the git works......
+and commited
